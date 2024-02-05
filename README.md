@@ -86,7 +86,7 @@ virtualenv venv
 .\venv\Scripts\activate
 ```
 
-3. You will get a file named `wine-clustering.csv` containing all the required fields. Alternatively, check the data here: [https://github.com/samiulabir201/Demographics-of-Best-CS-Scientist/blob/main/selenium_scraper/best_cs_scientist_details.csv](https://github.com/samiulabir201/Cluster-Analysis-on-Wine-Dataset/blob/main/wine-clustering.csv)
+3. You will get a file named `wine-clustering.csv` containing all the required fields. Alternatively, check the data here: (https://github.com/samiulabir201/Cluster-Analysis-on-Wine-Dataset/blob/main/wine-clustering.csv)
 
 ## Analytics   
 
