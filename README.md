@@ -96,26 +96,27 @@ virtualenv venv
 **Hierarchical clustering**
 <img width="579" alt="Screen Shot 2024-02-05 at 9 13 20 PM" src="https://github.com/samiulabir201/Cluster-Analysis-on-Wine-Dataset/assets/78860039/5867e6a7-753f-485f-991e-4faf5f538b0d">
 
-Agglomerative Clustering on Train Data:
-
+1. Agglomerative Clustering on Train Data:
 <img width="450" alt="Screen Shot 2024-02-05 at 9 12 09 PM" src="https://github.com/samiulabir201/Cluster-Analysis-on-Wine-Dataset/assets/78860039/d4933528-4ffd-429b-b561-9469f4d92df5">
 
-Agglomerative Clustering on Test Data:
+2. Agglomerative Clustering on Test Data:
 <img width="460" alt="Screen Shot 2024-02-05 at 9 11 44 PM" src="https://github.com/samiulabir201/Cluster-Analysis-on-Wine-Dataset/assets/78860039/9dc55fd8-2a40-4778-be98-5cc17952f3f7">
 
-Agglomerative Clustering on Validation Data:
+3. Agglomerative Clustering on Validation Data:
 <img width="449" alt="Screen Shot 2024-02-05 at 9 11 25 PM" src="https://github.com/samiulabir201/Cluster-Analysis-on-Wine-Dataset/assets/78860039/3f5b145d-b57c-4723-844c-c84b62b89817">
 
 **Principal Component Analysis with Kmeans**
+
 Data after PCA
+
 <img width="429" alt="Screen Shot 2024-02-05 at 9 10 31 PM" src="https://github.com/samiulabir201/Cluster-Analysis-on-Wine-Dataset/assets/78860039/0dea21b4-f29f-4ecc-8c27-b4c0a01f3799">
 
-Silhouette train set Score: 0.5603726386000918Í
+1. Silhouette train set Score: 0.5603726386000918Í
 <img width="504" alt="Screen Shot 2024-02-05 at 9 09 20 PM" src="https://github.com/samiulabir201/Cluster-Analysis-on-Wine-Dataset/assets/78860039/52f90994-debc-495d-b03f-9d08b80be12c">
 
-Silhouette Score on Validation Set: 0.45732291140211623
+2. Silhouette Score on Validation Set: 0.45732291140211623
 <img width="504" alt="Screen Shot 2024-02-05 at 9 07 06 PM" src="https://github.com/samiulabir201/Cluster-Analysis-on-Wine-Dataset/assets/78860039/35b53b4f-3be7-4d12-b787-37cbd47262e2">
 
-Silhouette Score on Test Set: 0.20189294490586665
+3. Silhouette Score on Test Set: 0.20189294490586665
 <img width="502" alt="Screen Shot 2024-02-05 at 9 06 29 PM" src="https://github.com/samiulabir201/Cluster-Analysis-on-Wine-Dataset/assets/78860039/a9d1f307-9622-4906-af2b-980d384a95bf">
 
