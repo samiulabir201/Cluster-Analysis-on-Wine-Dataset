@@ -75,7 +75,7 @@ The attributes are:
 1. Clone the repo
 
 ```bash
-git clone https://github.com/samiulabir201/Demographics-of-Best-CS-Scientist
+git clone https://github.com/samiulabir201/Cluster-Analysis-on-Wine-Dataset
 ```
 
 2. Initialize and activate the virtual environment
